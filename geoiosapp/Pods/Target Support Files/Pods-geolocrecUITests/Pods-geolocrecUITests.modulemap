@@ -1,0 +1,6 @@
+framework module Pods_geolocrecUITests {
+  umbrella header "Pods-geolocrecUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
